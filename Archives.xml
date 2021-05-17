@@ -21,4 +21,7 @@
 <ArchInfo Date="1621287500399" Description="Prueba A" Name="Pablo Prueba" PackageName="Pablo Prueba.spk" UserID="sasdemo" Version="b92d318">
 <ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Prueba Pablo(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1621288584472" Description="Version A" Name="Pablo Pru" PackageName="Pablo Pru.spk" UserID="sasdemo" Version="6a0b73e">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Prueba Pablo(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
